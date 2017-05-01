@@ -1,0 +1,11 @@
+*~
+.depend
+*.o
+*.a
+*.so
+*.log
+*.out
+*.dSYM
+make*
+tpgReader
+
