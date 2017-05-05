@@ -1,6 +1,8 @@
 #ifndef Phase2TrackTP_hh
 #define Phase2TrackTP_hh
 
+#include <stdint.h>
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
