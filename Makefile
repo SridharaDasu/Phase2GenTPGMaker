@@ -1,3 +1,5 @@
+PYINCLUDES = -I $(PYTHIA8DATA)/../../../include
+PYLDLIBS = -L $(PYTHIA8DATA)/../../../lib -lpythia8
 CFLAGS = -g $(PYINCLUDES)
 LIBDIR = ../lib
 BINDIR = ../bin
