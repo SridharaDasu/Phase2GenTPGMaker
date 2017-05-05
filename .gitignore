@@ -6,6 +6,6 @@
 *.log
 *.out
 *.dSYM
-make*
+makePhase2GenTPGMaker
 tpgReader
 
